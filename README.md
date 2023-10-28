@@ -1,7 +1,7 @@
 ### Olá, meu nome é Alexandre Junior 👋
 
 - 🔭 Atualmente sou estudande de desenvolvimento web
-- 🌱 Estudando Typescript React.js
+- 🌱 Estudando...
 - 📫 Contate-me no email: alexandrejunior584@gmail.com
 
 <div align="center">
