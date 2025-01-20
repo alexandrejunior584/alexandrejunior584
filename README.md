@@ -99,7 +99,7 @@ Algumas ferramentas e linguagens que possuo conhecimento:
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrejunior584&theme=tokyonight" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrejunior584" 
   />
 
 </p>
