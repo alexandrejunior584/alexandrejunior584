@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Alexandre Junior
 
-**`Desenvolvedora Frontend`**
+**`Desenvolvedor Frontend`**
 
 Hello, world!! Me chamo Alexandre! Tenho 20 anos e sou de Recife-PE.
 Atualmente estou no 5periodo de Análise e desenvolvimento de sistemas e estou aprimorando meus conhecimentos em desenvolvimento web pela plataforma OneBitCode.
